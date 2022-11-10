@@ -1,0 +1,1 @@
+A collection of kata solved on the codewars website for archive purposes, some are refactored, others are merely a record of completion.
